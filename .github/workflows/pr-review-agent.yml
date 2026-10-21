@@ -7,6 +7,7 @@ on:
       - develop
       - formsflow-forms
       - release/*
+      - master
   issue_comment:
 
 permissions:
